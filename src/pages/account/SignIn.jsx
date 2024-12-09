@@ -73,20 +73,19 @@ export function SignIn() {
             console.log('Signup process ended');
         }
     };
-console.log(uid)
     return (
         <div className='fundal'>
             <div className='flex justify-center items-center h-screen'>
                 <div className='backdrop-filter backdrop-blur-lg backdrop-filter-dark px-10 py-10 rounded-xl'>
                     <div>
-                        <h1 className='text-center text-[#ff0084] text-xl mb-4 font-bold'>Inregistrare</h1>
+                        <h1 className='text-center text-[#000000] text-xl mb-4 font-bold'>Inregistrare</h1>
                     </div>
                     <div>
                         <input
                             type="name"
                             value={firstname}
                             onChange={(e) => setFirstname(e.target.value)}
-                            className='bg-[#ffe6f2] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
+                            className='bg-[#f9ffff] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
                             placeholder='Nume si prenume'
                         />
                     </div>
@@ -95,7 +94,7 @@ console.log(uid)
                             type="email"
                             value={email}
                             onChange={(e) => setEmail(e.target.value)}
-                            className='bg-[#ffe6f2] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
+                            className='bg-[#f9ffff] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
                             placeholder='Email'
                         />
                     </div>
@@ -104,7 +103,7 @@ console.log(uid)
                             type="password"
                             value={password}
                             onChange={(e) => setPassword(e.target.value)}
-                            className='bg-[#ffe6f2] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
+                            className='bg-[#f9ffff] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
                             placeholder='Parola'
                         />
                     </div>
@@ -113,7 +112,7 @@ console.log(uid)
                             type="tel"
                             value={telefon}
                             onChange={(e) => setTelefon(e.target.value)}
-                            className='bg-[#ffe6f2] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
+                            className='bg-[#f9ffff] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
                             placeholder='Telefon'
                         />
                     </div>
@@ -122,7 +121,7 @@ console.log(uid)
                             type="text"
                             value={adresa}
                             onChange={(e) => setAdresa(e.target.value)}
-                            className='bg-[#ffe6f2] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
+                            className='bg-[#f9ffff] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
                             placeholder='Adresa'
                         />
                     </div>
@@ -131,21 +130,21 @@ console.log(uid)
                             type="text"
                             value={localitate}
                             onChange={(e) => setLocalitate(e.target.value)}
-                            className='bg-[#ffe6f2] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
+                            className='bg-[#f9ffff] mb-4 px-2 py-2 w-full lg:w-[20em] rounded-lg text-black placeholder:text-black outline-none'
                             placeholder='Localitate si judet'
                         />
                     </div>
                     <div className='flex justify-center mb-3'>
                         <button
                             onClick={signup}
-                            className='bg-[#f9a8d4] w-full text-black font-bold px-2 py-2 rounded-lg'
+                            className='bg-[#b7fbff] w-full text-black font-bold px-2 py-2 rounded-lg'
                         >
                             Sign in
                         </button>
                     </div>
                     <div>
                         <h2 className='text-black'>
-                            Have an account? <Link className='text-pink-600 font-bold' to={'/conectare'}>Log in</Link>
+                            Have an account? <Link className='text-[#061d1d] font-bold' to={'/conectare'}>Log in</Link>
                         </h2>
                     </div>
                 </div>
