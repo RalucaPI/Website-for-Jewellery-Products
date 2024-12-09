@@ -1,0 +1,11 @@
+Model Information:
+* title:	Necklace
+* source:	https://sketchfab.com/3d-models/necklace-a247e7aff45f4964ad88b632b08a6e16
+* author:	EdgyCG (https://sketchfab.com/danielp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Necklace" (https://sketchfab.com/3d-models/necklace-a247e7aff45f4964ad88b632b08a6e16) by EdgyCG (https://sketchfab.com/danielp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

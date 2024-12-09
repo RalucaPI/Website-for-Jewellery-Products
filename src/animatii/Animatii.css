@@ -1,0 +1,129 @@
+.container_animatii {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main_content {
+  flex: 1;
+  background-color: #000000;
+  width: 100%; /* Înălțimea secțiunii de animații */
+  overflow: hidden;
+  max-height: 63vh;
+}
+
+.bottom-panel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  padding: 10px;
+  height: 28vh; 
+  overflow: hidden;
+  z-index: 5;
+}
+
+.bottom-panel-section {
+  flex: 0 1 20%; /* Ajustăm lățimea pentru a fi mai lată */
+  min-width: 200px; /* Lățime minimă */
+  max-width: 300px; /* Lățime maximă */
+  margin: 5px;
+  height: 100%; /* Ajustăm înălțimea pentru a fi mai mică */
+  z-index: 2;
+}
+
+.image-container {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.font-dancing-script {
+  font-family: 'Dancing Script', cursive;
+  text-shadow: 4px 4px 5px #999999;
+}
+
+.thumbex {
+  overflow: hidden;
+  outline: 2px solid #d3d3d3;
+  outline-offset: -5px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 5px 10px 40px 5px rgba(0, 0, 0, 0.5);
+}
+
+.thumbnail {
+  flex: 1;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #ddd;
+  height: 100%;
+  position: relative;
+  opacity: 0.88;
+  backface-visibility: hidden;
+  transition: all 0.4s ease-out;
+}
+
+.text_animatie {
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  right: 0;
+  top: 20px;
+  background: rgba(255, 255, 255, 0.877);
+  padding: 10px 10px;
+  margin: 15px 15px;
+  text-align: center;
+  font-size: 16px; /* Mărime redusă a textului pentru a se încadra */
+  color: black;
+  font-weight: 500;
+  letter-spacing: 0.2px;
+  transition: all 0.3s ease-out;
+  opacity: 0;
+}
+
+.thumbnail:hover {
+  backface-visibility: hidden;
+  z-index: 3;
+  transform: scale(1.15, 1.15);
+  opacity: 1;
+}
+
+.thumbnail:hover .text_animatie {
+  opacity: 0.6;
+}
+/* Media Queries pentru micșorarea secțiunilor pe ecrane mai mici */
+@media (max-width: 1200px) {
+  .bottom-panel-section {
+    flex: 1 1 30%; /* Ajustăm lățimea pentru a se potrivi pe ecrane mai mici */
+    min-width: 100px;
+    height: 80%; /* Reducem înălțimea */
+  }
+  .text_animatie {
+    font-size: 14px; /* Reducem dimensiunea textului */
+  }
+}
+
+@media (max-width: 768px) {
+  .bottom-panel-section {
+    flex: 1 1 45%; /* Ajustăm lățimea pentru a se potrivi pe ecrane și mai mici */
+    min-width: 75px;
+    height: 60%; /* Reducem înălțimea */
+    margin: 2px;
+  }
+  .text_animatie {
+    font-size: 12px; /* Reducem dimensiunea textului */
+  }
+}
+
+@media (max-width: 480px) {
+  .bottom-panel-section {
+    flex: 1 1 100%; /* Fiecare secțiune ocupă lățimea completă */
+    min-width: 55px;
+    height: 50%; /* Reducem înălțimea */
+  }
+  .text_animatie {
+    font-size: 10px; /* Reducem dimensiunea textului */
+  }
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	AU-40303 Earring
+* source:	https://sketchfab.com/3d-models/au-40303-earring-3dc232daa567465a8da5a9326463f966
+* author:	automicgoldapril (https://sketchfab.com/automicgoldapril)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AU-40303 Earring" (https://sketchfab.com/3d-models/au-40303-earring-3dc232daa567465a8da5a9326463f966) by automicgoldapril (https://sketchfab.com/automicgoldapril) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

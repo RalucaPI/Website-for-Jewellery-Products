@@ -1,0 +1,445 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2,
+      "max": [
+        -0.09178300201892853,
+        0.005874999798834324,
+        0.06790400296449661
+      ],
+      "min": [
+        -0.09178599715232849,
+        0.001395000028423965,
+        0.06746099889278412
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 734,
+      "max": [
+        0.031031999737024307,
+        0.008957000449299812,
+        0.0682080015540123
+      ],
+      "min": [
+        -0.03141999989748001,
+        -0.004102999810129404,
+        0.061739999800920486
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8832,
+      "componentType": 5126,
+      "count": 734,
+      "max": [
+        0.9999769926071167,
+        0.9915452599525452,
+        0.9914709329605103
+      ],
+      "min": [
+        -0.9999769926071167,
+        -0.9992295503616333,
+        -0.994902491569519
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 734,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 8,
+      "componentType": 5125,
+      "count": 3096,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 17640,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.03475499898195267,
+        0.03963899984955788,
+        0.06970100104808807
+      ],
+      "min": [
+        -0.03512300178408623,
+        -0.030192000791430473,
+        2.4000000848900527e-05
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 804024,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999990701675415,
+        0.999967098236084,
+        0.9999884366989136
+      ],
+      "min": [
+        -0.999990701675415,
+        -0.9999672174453735,
+        -0.9999728202819824
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5872,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.875,
+        1.0000009536743164
+      ],
+      "min": [
+        -0.0016159999649971724,
+        -9.200000204145908e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12392,
+      "componentType": 5125,
+      "count": 320208,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1590408,
+      "componentType": 5126,
+      "count": 1998,
+      "max": [
+        0.03432299941778183,
+        0.03963899984955788,
+        0.06970100104808807
+      ],
+      "min": [
+        -0.03514299914240837,
+        -0.02285199984908104,
+        0.00021699999342672527
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1614384,
+      "componentType": 5126,
+      "count": 1998,
+      "max": [
+        0.9999028444290161,
+        0.9999510049819946,
+        0.9997798800468445
+      ],
+      "min": [
+        -0.9999581575393677,
+        -0.9999405145645142,
+        -0.9994786381721497
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 530128,
+      "componentType": 5126,
+      "count": 1998,
+      "max": [
+        0.875,
+        1.0000009536743164
+      ],
+      "min": [
+        -0.0012789999600499868,
+        -5.500000042957254e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1293224,
+      "componentType": 5125,
+      "count": 8040,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1638360,
+      "componentType": 5126,
+      "count": 24871,
+      "max": [
+        0.03411399945616722,
+        -0.0026859999634325504,
+        0.06537199765443802
+      ],
+      "min": [
+        -0.034501999616622925,
+        -0.029829999431967735,
+        0.00862099975347519
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1936812,
+      "componentType": 5126,
+      "count": 24871,
+      "max": [
+        0.9993767738342285,
+        0.9998411536216736,
+        0.9999914169311523
+      ],
+      "min": [
+        -0.9993767738342285,
+        -0.9996837973594666,
+        -0.9993782043457031
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 546112,
+      "componentType": 5126,
+      "count": 24871,
+      "max": [
+        0.9739099740982056,
+        0.9739130139350891
+      ],
+      "min": [
+        0.0210999995470047,
+        0.02109299972653389
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1325384,
+      "componentType": 5125,
+      "count": 24900,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Syahdat setiawan (https://sketchfab.com/sadat_s)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/diamond-crossover-hoop-earrings-7a9e9fee80ac4c6d803680a4c62ce852",
+      "title": "diamond crossover hoop earrings"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1424984,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 745080,
+      "byteOffset": 1424984,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2235264,
+      "byteOffset": 2170064,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4405328,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "None",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5271151257058131,
+          0.5271151257058131,
+          0.5271151257058131,
+          1.0
+        ],
+        "metallicFactor": 0.8,
+        "roughnessFactor": 0.1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          },
+          "indices": 1,
+          "material": 0,
+          "mode": 1
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 3,
+            "POSITION": 2,
+            "TEXCOORD_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12
+          },
+          "indices": 13,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 15,
+            "POSITION": 14,
+            "TEXCOORD_0": 16
+          },
+          "indices": 17,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "diamonds_earrings3.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 3,
+      "name": "Object_5"
+    },
+    {
+      "mesh": 4,
+      "name": "Object_6"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

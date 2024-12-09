@@ -1,0 +1,8 @@
+Model Information:
+* title:	Snowflake Necklace
+* source:	https://sketchfab.com/3d-models/snowflake-necklace-d9d312dadf14458396526cb0bd22460d
+* author:	powerdoge (https://sketchfab.com/powerdoge)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

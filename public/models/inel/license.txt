@@ -1,0 +1,11 @@
+Model Information:
+* title:	543 - Ring
+* source:	https://sketchfab.com/3d-models/543-ring-4c55eacf1f264799b5a61126678f8360
+* author:	Lizardsking (https://sketchfab.com/lizardsking)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "543 - Ring" (https://sketchfab.com/3d-models/543-ring-4c55eacf1f264799b5a61126678f8360) by Lizardsking (https://sketchfab.com/lizardsking) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
